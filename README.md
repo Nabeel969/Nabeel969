@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabeel969&label=Profile%20views&color=0e75b6&style=flat" alt="nabeel969" /> </p>
 
-- 🔭 I’m worked on [Tifin](https://nabeel969.github.io/)
+- 🔭 I’m worked on [Tifin]([https://nabeel969.github.io/](https://nabeel969.github.io/Tifin-Live/))
 
 - 🌱 I’m currently learning **Asp.net Core**
 
